@@ -30,7 +30,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in my Last Semester in
 
 <p id="contact-me">
   
-<a href="www.linkedin.com/in/harnoor-sidhu-872a18173" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harnoor-Singh" height="25" width="25" /> Harnoor-Sidhu</a>
+<a href="https://www.linkedin.com/in/harnoor-sidhu-872a18173/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harnoor-Singh" height="25" width="25" /> Harnoor-Sidhu</a>
   
 
 
